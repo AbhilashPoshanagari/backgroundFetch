@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ble-tgg-background</string>
+    <string name="title_activity_main">ble-tgg-background</string>
+    <string name="package_name">ble.tgg.background</string>
+    <string name="custom_url_scheme">ble.tgg.background</string>
+</resources>
